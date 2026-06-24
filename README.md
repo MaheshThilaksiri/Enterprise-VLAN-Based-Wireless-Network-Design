@@ -1,8 +1,6 @@
 # Enterprise-VLAN-Based-Wireless-Network-Design
 Designed and implemented a VLAN-based wireless network using Cisco Packet Tracer. Configured VLAN segmentation, DHCP, Router-on-a-Stick inter-VLAN routing, and wireless connectivity for multiple departments. Successfully tested automatic IP allocation and communication between VLANs.
 
-# XYZ Company VLAN Network Design
-
 ## Project Overview
 This project demonstrates the design and implementation of a VLAN-based network for a branch office using Cisco Packet Tracer.
 
